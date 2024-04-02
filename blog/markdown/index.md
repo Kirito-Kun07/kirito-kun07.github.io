@@ -2,7 +2,7 @@
 title: Markdown formatting
 date: 2024-2-23
 description: description
-categories: ['filter2', 'filter3']
+categories: ['fundamentals', 'filter3']
 ---
 
 
